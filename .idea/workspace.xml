@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98748a9e-a722-4f2d-a758-2e893e55b61b" name="Default" comment="Option added to limit no messages send by client">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beelocker/public/modules/incident/Test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" afterPath="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beelocker/logs/error.log" afterPath="$PROJECT_DIR$/beelocker/logs/error.log" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="beelocker" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="customJs.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/customJs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ChangePassword</find>
+      <find>checkIterationCount</find>
+      <find>angular</find>
+      <find>English</find>
+      <find>slider</find>
+      <find>syslog</find>
+      <find>Password should</find>
+      <find>hideCred</find>
+      <find>success</find>
+      <find>rzslider</find>
+      <find>confidence</find>
+      <find>app.logger.ERROR_LOG.error</find>
+      <find>PASSWORD_NOT_FOUND</find>
+      <find>$timeout</find>
+      <find>ipRegex</find>
+      <find>confide</find>
+      <find>user name</find>
+      <find>Accessed</find>
+      <find>timeline</find>
+      <find>BAD_REQUEST</find>
+      <find>config</find>
+      <find>securePort</find>
+      <find>binaryName</find>
+      <find>secure</find>
+      <find>offset</find>
+      <find>offset-md-2</find>
+      <find>console.log</find>
+      <find>getIncident</find>
+      <find>openIncident</find>
+      <find>openCase</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>config</replace>
+      <replace>config.PLEASE_INSERT _ACCESSED_CONTENT</replace>
+      <replace>config.PLEASE_INSERT_INCIDENT_TEXT</replace>
+      <replace>config.PLEASE_CHECK_PASSWORD</replace>
+      <replace>config.PLEASE_CHECK_USERNAME</replace>
+      <replace>config.PLEASE_CHECK_CRITICALITY_VALUE</replace>
+      <replace>config.PLEASE_CHECK_CONFIDENCE_VALUE</replace>
+      <replace>activeVsDeadNade</replace>
+      <replace>breaches</replace>
+      <replace>nodeServices</replace>
+      <replace>Breaches</replace>
+      <replace>'message':</replace>
+      <replace>message</replace>
+      <replace>incidentList</replace>
+      <replace>7</replace>
+      <replace>userSetting</replace>
+      <replace>temp.password</replace>
+      <replace>md-form</replace>
+      <replace>SUBTYPE_ALREADY_EXIST</replace>
+      <replace>SUBTYPE_CREATED</replace>
+      <replace>SUBTYPE_NOT_FOUND</replace>
+      <replace>SUBTYPE_UPDATED</replace>
+      <replace>SUBTYPE_DELETED</replace>
+      <replace>localStorage</replace>
+      <replace>tempPassword</replace>
+      <replace>newPassword</replace>
+      <replace>ng-class=&quot;user.id</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\Developement\beelocker\beelocker\app</dir>
+      <dir>E:\Developement\beelocker</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/beelocker" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/beelocker/public/modules/syslog/syslog.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/user/user.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/group/group.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/service/service.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/case/cases.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/database-settings/database-settings.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/incident/timeline.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/layout/header/header.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/user/create-user.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/user-profile/user-profile.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/user/user.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/services/services.route.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/email/create-email-setting.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/group/create-group.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/group/group.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/case/case.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/case/cases.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/config/status-message.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/cases/cases.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/database-settings/database-settings.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/groups/groups.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/nodes/nodes.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/recovery-codes/recovery-codes.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/services/services.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/sms-settings/sms-settings.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/sub-types/sub-types.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/syslog-settings/syslog-setting.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/users/users.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/email-settings/email-setting.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/js/angular-file-saver.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/js/blob.css" />
+        <option value="$PROJECT_DIR$/beelocker/public/app.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/js/blob.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/index.html" />
+        <option value="$PROJECT_DIR$/beelocker/config/config.js" />
+        <option value="$PROJECT_DIR$/beelocker/server.js" />
+        <option value="$PROJECT_DIR$/beelocker/app/incident/incidents.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/language/testTranslation.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/language/englishTranslation.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/incident/view-incident.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/case/view-case.html" />
+        <option value="$PROJECT_DIR$/beelocker/public/css/v1.css" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" />
+        <option value="$PROJECT_DIR$/beelocker/public/modules/incident/Test.html" />
+        <option value="$PROJECT_DIR$/dheeraj.html" />
+        <option value="$PROJECT_DIR$/css.css" />
+        <option value="$PROJECT_DIR$/dd.html" />
+        <option value="$USER_HOME$/Desktop/Example.html" />
+        <option value="$USER_HOME$/Desktop/test.html" />
+        <option value="$USER_HOME$/Desktop/Bootstrap Example.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Employee Management" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Employee Management" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="SearchEverywhereHistoryKey" value="bootstra&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/css/bootstrap.css&#10;test&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/testTranslation.js&#10;english&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;v1&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/css/v1.css&#10;status&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;app&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/app.js&#10;index&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;STATUS&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;case.h&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;group.contr&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/group/group.controller.js&#10;create-gr&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/group/create-group.html&#10;nglish&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;STAT&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;create&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/email/create-email-setting.html&#10;service&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/service/service.html&#10;bower&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;engl&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;package&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/package.json&#10;BOWER&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;SIDE&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;routes&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/routes.js&#10;bower.json&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;sys&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/syslog/syslog.html&#10;footer&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/footer/footer.html&#10;index.html&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;HEADER&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.html&#10;stat&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;sidebar&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;header.co&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.controller.js&#10;header&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.html&#10;case&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;login&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/login/login.controller.js&#10;reset&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/reset-password/reset-password.html&#10;re&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/registration/registration.html&#10;registration&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/registration/registration.controller.js&#10;check&#9;null&#9;null&#10;constant&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/constants/constants.js&#10;res&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/reset-password/reset-password.html&#10;user&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/user/user.controller.js&#10;view&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/view-case.html&#10;CASE&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;dash&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/dashboard/dashboard.controller.js&#10;dashboard&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/dashboard/dashboard.html&#10;profile&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/user-profile/user-profile.html&#10;route&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/routes.js&#10;side&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;In&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;INDEX&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;inde&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;strength&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/directives/checkStrength.js" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Developement\beelocker\beelocker\public\modules\incident" />
+      <recent name="E:\Developement\beelocker\beelocker\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Developement" />
+      <recent name="E:\Development" />
+      <recent name="E:\Developement\beelocker" />
+      <recent name="C:\Users\Rahul\Dheeraj" />
+      <recent name="E:\Developement\beelocker\beelocker\public\modules\incident" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.dd.html">
+    <configuration default="false" name="Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/beelocker/beelocker/public/modules/incident/Test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="dheeraj.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/beelocker/dheeraj.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="dd.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/beelocker/dd.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/beelocker">
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.Test.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.dheeraj.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.dd.html" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dd.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.dheeraj.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.Test.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,HTML5_OUTLINE_MODE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98748a9e-a722-4f2d-a758-2e893e55b61b" name="Default" comment="" />
+      <created>1486555649691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1486555649691</updated>
+      <workItem from="1486555651144" duration="290000" />
+      <workItem from="1486797389804" duration="4611000" />
+      <workItem from="1486807052062" duration="1566000" />
+      <workItem from="1486815396121" duration="3211000" />
+      <workItem from="1486962188162" duration="4875000" />
+      <workItem from="1486968556317" duration="19000" />
+      <workItem from="1486968891774" duration="22076000" />
+      <workItem from="1487048381147" duration="28561000" />
+      <workItem from="1487134550784" duration="17948000" />
+      <workItem from="1487158043767" duration="8091000" />
+      <workItem from="1487221265104" duration="22284000" />
+      <workItem from="1487307452448" duration="26415000" />
+      <workItem from="1487394017879" duration="27200000" />
+      <workItem from="1487566982951" duration="24985000" />
+      <workItem from="1487653012427" duration="23736000" />
+      <workItem from="1487739307112" duration="22458000" />
+      <workItem from="1487825904411" duration="23677000" />
+      <workItem from="1487912114295" duration="27314000" />
+      <workItem from="1488171192641" duration="4069000" />
+      <workItem from="1488176736743" duration="19000" />
+      <workItem from="1488182390885" duration="114000" />
+      <workItem from="1488186773239" duration="28000" />
+      <workItem from="1488190765882" duration="3711000" />
+      <workItem from="1488257638441" duration="9704000" />
+      <workItem from="1488287542550" duration="138000" />
+      <workItem from="1488287775763" duration="1791000" />
+      <workItem from="1488342860843" duration="801000" />
+      <workItem from="1488349584013" duration="1553000" />
+      <workItem from="1488353604644" duration="5753000" />
+      <workItem from="1488777371818" duration="18649000" />
+      <workItem from="1488862444839" duration="3566000" />
+      <workItem from="1488878833733" duration="1094000" />
+      <workItem from="1488879970847" duration="7646000" />
+      <workItem from="1488957470289" duration="3708000" />
+      <workItem from="1488964929672" duration="2219000" />
+      <workItem from="1488975672822" duration="4300000" />
+      <workItem from="1489040293464" duration="25625000" />
+      <workItem from="1489117854987" duration="6296000" />
+      <workItem from="1489135702259" duration="1337000" />
+      <workItem from="1489469468327" duration="15367000" />
+      <workItem from="1489488348501" duration="4415000" />
+      <workItem from="1489494433927" duration="886000" />
+      <workItem from="1489495589744" duration="4349000" />
+      <workItem from="1489554718268" duration="25168000" />
+      <workItem from="1489640616996" duration="7550000" />
+      <workItem from="1489650020086" duration="4551000" />
+      <workItem from="1489662213514" duration="195000" />
+      <workItem from="1489665459035" duration="4130000" />
+      <workItem from="1489728986037" duration="10054000" />
+      <workItem from="1489751580759" duration="3763000" />
+      <workItem from="1489813996631" duration="2807000" />
+      <workItem from="1489830719011" duration="884000" />
+      <workItem from="1489831921309" duration="813000" />
+      <workItem from="1489837508773" duration="2447000" />
+      <workItem from="1489844054140" duration="512000" />
+      <workItem from="1489985770325" duration="26559000" />
+      <workItem from="1490071750324" duration="19383000" />
+      <workItem from="1490097109604" duration="1436000" />
+      <workItem from="1490158683575" duration="25207000" />
+      <workItem from="1490245011473" duration="23048000" />
+      <workItem from="1490331588402" duration="8915000" />
+      <workItem from="1490347374754" duration="228000" />
+      <workItem from="1490352939237" duration="6153000" />
+      <workItem from="1490591221441" duration="10102000" />
+      <workItem from="1490677135928" duration="5549000" />
+      <workItem from="1490703300994" duration="2089000" />
+      <workItem from="1490709260776" duration="401000" />
+      <workItem from="1490763611744" duration="61000" />
+      <workItem from="1490763696540" duration="601000" />
+      <workItem from="1490764885184" duration="1083000" />
+      <workItem from="1490781229250" duration="463000" />
+      <workItem from="1490784954236" duration="639000" />
+      <workItem from="1490795578870" duration="982000" />
+      <workItem from="1490849733832" duration="603000" />
+      <workItem from="1490865383266" duration="2028000" />
+      <workItem from="1490869996511" duration="167000" />
+      <workItem from="1490870640606" duration="469000" />
+      <workItem from="1490874978087" duration="798000" />
+      <workItem from="1490941641513" duration="26000" />
+      <workItem from="1490945111388" duration="347000" />
+      <workItem from="1490952804756" duration="5504000" />
+      <workItem from="1490963824820" duration="1958000" />
+      <workItem from="1491022872138" duration="1366000" />
+      <workItem from="1491026651003" duration="374000" />
+      <workItem from="1491029721035" duration="352000" />
+      <workItem from="1491036583599" duration="988000" />
+      <workItem from="1491041306783" duration="1055000" />
+      <workItem from="1491042441290" duration="2891000" />
+      <workItem from="1491204633844" duration="3836000" />
+      <workItem from="1491283019137" duration="8075000" />
+      <workItem from="1491304568038" duration="659000" />
+      <workItem from="1491368236861" duration="781000" />
+      <workItem from="1491373482179" duration="6229000" />
+      <workItem from="1491391963581" duration="2352000" />
+      <workItem from="1491396641486" duration="1156000" />
+      <workItem from="1491478806753" duration="669000" />
+      <workItem from="1491543042120" duration="14713000" />
+      <workItem from="1491890444386" duration="18861000" />
+      <workItem from="1491972882279" duration="17057000" />
+      <workItem from="1491999968327" duration="26000" />
+      <workItem from="1492000884117" duration="1568000" />
+      <workItem from="1492060928805" duration="985000" />
+      <workItem from="1492063781018" duration="207000" />
+      <workItem from="1492064073193" duration="1014000" />
+      <workItem from="1492066414402" duration="2464000" />
+      <workItem from="1492081226174" duration="621000" />
+      <workItem from="1492086353669" duration="1477000" />
+      <workItem from="1492091698066" duration="1085000" />
+      <workItem from="1492145307890" duration="624000" />
+      <workItem from="1492148331152" duration="1187000" />
+      <workItem from="1492153555880" duration="1984000" />
+      <workItem from="1492251903165" duration="9615000" />
+      <workItem from="1492404874707" duration="22181000" />
+      <workItem from="1492491055101" duration="14416000" />
+      <workItem from="1492523487310" duration="360000" />
+      <workItem from="1492579230409" duration="11364000" />
+      <workItem from="1492595118865" duration="1423000" />
+      <workItem from="1492599374055" duration="2163000" />
+      <workItem from="1492602768856" duration="1537000" />
+      <workItem from="1492666457094" duration="636000" />
+      <workItem from="1492669085134" duration="11000" />
+      <workItem from="1492678744710" duration="1268000" />
+      <workItem from="1492680120095" duration="637000" />
+      <workItem from="1492681275023" duration="747000" />
+      <workItem from="1492682350326" duration="686000" />
+      <workItem from="1492684460153" duration="390000" />
+      <workItem from="1492684930642" duration="39000" />
+      <workItem from="1492689961720" duration="23000" />
+      <workItem from="1492695395300" duration="714000" />
+      <workItem from="1492749873825" duration="648000" />
+      <workItem from="1492775412068" duration="583000" />
+      <workItem from="1493098437351" duration="678000" />
+      <workItem from="1493101212237" duration="551000" />
+      <workItem from="1493102405176" duration="1464000" />
+      <workItem from="1493121570918" duration="21000" />
+      <workItem from="1493127951072" duration="93000" />
+      <workItem from="1493205372168" duration="826000" />
+      <workItem from="1493297306485" duration="54000" />
+      <workItem from="1493356918812" duration="3522000" />
+      <workItem from="1493365381794" duration="6065000" />
+      <workItem from="1493640167905" duration="7181000" />
+      <workItem from="1493699333353" duration="25207000" />
+      <workItem from="1493785362419" duration="207000" />
+      <workItem from="1493787506071" duration="4071000" />
+      <workItem from="1493792221624" duration="1868000" />
+      <workItem from="1493803677175" duration="2496000" />
+      <workItem from="1493812922998" duration="4743000" />
+      <workItem from="1493869846430" duration="79000" />
+      <workItem from="1493870872297" duration="17453000" />
+      <workItem from="1494565410762" duration="140000" />
+      <workItem from="1494585794873" duration="4826000" />
+      <workItem from="1494591875547" duration="643000" />
+      <workItem from="1495431004174" duration="9067000" />
+      <workItem from="1495632055572" duration="1217000" />
+      <workItem from="1495702398863" duration="626000" />
+      <workItem from="1495778459843" duration="25180000" />
+      <workItem from="1495911862518" duration="12000" />
+      <workItem from="1497442245743" duration="1204000" />
+    </task>
+    <task id="LOCAL-00001" summary="Critibility and confidence number input">
+      <created>1486821805994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1486821805994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Font address">
+      <created>1486970127018</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1486970127018</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Node ui added">
+      <created>1486995309880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1486995309880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes in sidebar">
+      <created>1487058725178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1487058725178</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Node view page added">
+      <created>1487063523915</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1487063523915</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Case module added">
+      <created>1487080787132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1487080787132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create and comment added in case management">
+      <created>1487159341951</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1487159341951</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sidebar changes">
+      <created>1487166543984</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1487166543984</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changes in nodes datatable">
+      <created>1487230817806</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1487230817806</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added verbose to Password">
+      <created>1487247590279</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1487247590279</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Api's improved">
+      <created>1487250640855</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487250640855</updated>
+    </task>
+    <task id="LOCAL-00012" summary="UI changes">
+      <created>1487312959859</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487312959859</updated>
+    </task>
+    <task id="LOCAL-00013" summary="User profile image upload">
+      <created>1487323567384</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1487323567384</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Constant messages in case module">
+      <created>1487329155030</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1487329155030</updated>
+    </task>
+    <task id="LOCAL-00015" summary="caseOpened &amp; closed date added with datepicker">
+      <created>1487340039783</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1487340039783</updated>
+    </task>
+    <task id="LOCAL-00016" summary="User profile password change added">
+      <created>1487404904259</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1487404904259</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Case datepicker ui change">
+      <created>1487416682032</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1487416682032</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Tables added in dashboard">
+      <created>1487422764246</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1487422764246</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Edit user profile">
+      <created>1487575172798</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1487575172798</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Database-setting added">
+      <created>1487588454422</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1487588454422</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Dashboard Graph added for number of active node for services">
+      <created>1487599530520</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1487599530520</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Angular loader added">
+      <created>1487664366071</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1487664366071</updated>
+    </task>
+    <task id="LOCAL-00023" summary="min/max criticality-confidence change to slider input">
+      <created>1487664427295</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1487664427295</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Unique id and unique field added in models">
+      <created>1487685434167</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1487685434167</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Active Node vs Dead node real time update graph">
+      <created>1487771409384</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1487771409384</updated>
+    </task>
+    <task id="LOCAL-00026" summary="User profile css fixed">
+      <created>1487772697131</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1487772697131</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Pagination added in all list pages">
+      <created>1487841525829</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1487841525829</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Upload service icon feature added">
+      <created>1487848307233</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1487848307233</updated>
+    </task>
+    <task id="LOCAL-00029" summary="List pages ui improved">
+      <created>1487852666000</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1487852666000</updated>
+    </task>
+    <task id="LOCAL-00030" summary="service icon upload improved">
+      <created>1487858326281</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1487858326281</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Search functionality added in all list page">
+      <created>1487915597130</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1487915597130</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Seperate file for constant message &amp; status added">
+      <created>1487920211147</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1487920211147</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Change in Update user">
+      <created>1487921798814</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1487921798814</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Graph change for active nodes vs services">
+      <created>1487934513973</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1487934513973</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Case Form validation and dashboard ui">
+      <created>1488269421165</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1488269421165</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Dashboard Ui">
+      <created>1488289542392</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1488289542392</updated>
+    </task>
+    <task id="LOCAL-00037" summary="pagination in report incident page">
+      <created>1488780969504</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1488780969504</updated>
+    </task>
+    <task id="LOCAL-00038" summary="WEBSITE BY Revbits change to BeeAlert Dashboard by RevBits">
+      <created>1488787266173</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1488787266173</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Option added to limit no messages send by client">
+      <created>1488802683682</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1488802683682</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="907719000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.21440262" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6497545" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="caseOpened &amp; closed date added with datepicker" />
+    <MESSAGE value="User profile password change added" />
+    <MESSAGE value="Case datepicker ui change" />
+    <MESSAGE value="Tables added in dashboard" />
+    <MESSAGE value="Edit user profile" />
+    <MESSAGE value="Database-setting added" />
+    <MESSAGE value="Dashboard Graph added for number of active node for services" />
+    <MESSAGE value="Angular loader added" />
+    <MESSAGE value="min/max criticality-confidence change to slider input" />
+    <MESSAGE value="Unique id and unique field added in models" />
+    <MESSAGE value="Active Node vs Dead node real time update graph" />
+    <MESSAGE value="User profile css fixed" />
+    <MESSAGE value="Pagination added in all list pages" />
+    <MESSAGE value="Upload service icon feature added" />
+    <MESSAGE value="List pages ui improved" />
+    <MESSAGE value="service icon upload improved" />
+    <MESSAGE value="Search functionality added in all list page" />
+    <MESSAGE value="Seperate file for constant message &amp; status added" />
+    <MESSAGE value="Change in Update user" />
+    <MESSAGE value="Graph change for active nodes vs services" />
+    <MESSAGE value="Case Form validation and dashboard ui" />
+    <MESSAGE value="Dashboard Ui" />
+    <MESSAGE value="pagination in report incident page" />
+    <MESSAGE value="WEBSITE BY Revbits change to BeeAlert Dashboard by RevBits" />
+    <MESSAGE value="Option added to limit no messages send by client" />
+    <option name="LAST_COMMIT_MESSAGE" value="Option added to limit no messages send by client" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/beelocker/app/authentication/authenticator.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/event-viewer/event-view.route.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/event-viewer/event-view.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/group/group.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/group/create-group.html" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/sub-types/sub-types.route.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/users/users.route.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/two-factor/two-factor.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/email-settings/email-settings.model.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/user/user.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/database-settings/database-settings.model.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/groups/groups.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/nodes/nodes.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/recovery-codes/recovery-codes.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/services/services.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/sms-settings/sms-settings.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/sub-types/sub-types.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/syslog-settings/syslog-setting.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/users/users.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/email-settings/email-setting.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/js/angular-file-saver.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/js/blob.css" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/js/blob.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/app.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/index.html" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/cases/cases.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/dashboard/dashboard.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/database-settings/database-settings.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/config/status-message.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/config/color-coding.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/server.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/config/config.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/app/incident/incidents.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/language/testTranslation.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/language/englishTranslation.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/css/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/case/case.html" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/css/v1.css" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/case/cases.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/incident/view-incident.html" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/case/view-case.html" />
+    <entry file="file://$PROJECT_DIR$/beelocker/public/modules/incident/Test.html" />
+    <entry file="file://$PROJECT_DIR$/dd.html" />
+    <entry file="file://$PROJECT_DIR$/dheeraj.html" />
+    <entry file="file://$USER_HOME$/Desktop/test.html" />
+    <entry file="file://$PROJECT_DIR$/css.css" />
+    <entry file="file://$USER_HOME$/Desktop/Bootstrap Example.html" />
+    <entry file="file://$USER_HOME$/Desktop/Example.html" />
+    <entry file="file://$PROJECT_DIR$/js/customJs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

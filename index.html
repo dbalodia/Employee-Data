@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Database</title>
+    <!--mdb css-->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!--custom css-->
+    <link rel="stylesheet" href="css/customStyle.css">
+    <link href="https://fonts.googleapis.com/css?family=Oleo+Script:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Teko:400,700" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+<body ng-app="managementApp" ng-controller="myCtrl">
+<section id="contact">
+    <div class="section-content">
+        <h1 class="section-header">Enter Your
+            <span class="content-header wow fadeIn " data-wow-delay="0.2s" ata-wow-duration="2s"> Details</span>
+        </h1>
+        <h3>"Because You're Worth It"</h3>
+    </div>
+    <div class="contact-section">
+        <div class="container">
+            <form name="userForm">
+                <div class="col-md-6 form-line">
+                    <div class="form-group">
+                        <label for="exampleInputUsername">Your name:</label>
+                        <input type="text" class="form-control" id="exampleInputUsername" placeholder=" Enter Name"
+                               name="name" ng-model="enteredName" required>
+
+                    </div>
+                    <div class="form-group">
+                        <label for="dob">DOB:</label>
+                        <input type="date" class="form-control" id="dob" placeholder="01-01-1901"
+                               ng-model="enteredDob" required>
+                    </div>
+                    <div>
+                        <button type="button" class="btn btn-default submit" ng-click="saveData(); showDetails()"
+                                ng-show="submit" ng-disabled="userForm.$invalid">
+                            <i class="fa fa-paper-plane" aria-hidden="true"></i> Submit
+                        </button>
+                        <button type="button" class="btn btn-default submit" ng-click="updateData()" ng-hide="update"
+                        >
+                            <i class="fa fa-wrench" aria-hidden="true"></i> Update
+                        </button>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-12">
+                            <h4>Names</h4>
+                        </div>
+                        <div class="col-md-4 col-sm-12">
+                            <h4>DOB</h4>
+                        </div>
+                        <div class="col-md-4 col-sm-12">
+                            <h4>Action</h4>
+                        </div>
+                    </div>
+                    <div class="row" ng-repeat="names in temp1 track by $index">
+                        <div class="col-md-4 col-sm-4 capitalize">
+                            {{names.enteredName }}
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            {{names.enteredDob | date}}
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <div class="col-md-6">
+
+                                <button type="button" class="btn size btn-default updateSize"
+                                        ng-click="editEntry($index)">
+                                    </i><i class="fa fa-pencil fa-1x" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <button type="button" class="btn size btn-default delete "
+                                        ng-click="deleteEntry($index)">
+                                    <i class="fa fa-trash fa-1x" aria-hidden="true"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </form>
+        </div>
+    </div>
+
+
+</section>
+
+</body>
+<script src="jquery/jquery.min.js"></script>
+<!--bootstrap -->
+<script src="js/bootstrap.min.js"></script>
+<!--angular-->
+<script src="bower_components/angular/angular.min.js"></script>
+<!--custom -->
+<script src="js/customStyle.js"></script>
+</html>
