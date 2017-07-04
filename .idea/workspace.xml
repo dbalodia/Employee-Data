@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98748a9e-a722-4f2d-a758-2e893e55b61b" name="Default" comment="Option added to limit no messages send by client">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/beelocker/public/modules/incident/Test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" afterPath="$PROJECT_DIR$/beelocker/public/modules/incident/incidents.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/beelocker/logs/error.log" afterPath="$PROJECT_DIR$/beelocker/logs/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/customStyle.css" afterPath="$PROJECT_DIR$/css/customStyle.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/customStyle.js" afterPath="$PROJECT_DIR$/js/customStyle.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="customJs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/customJs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -122,12 +114,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/beelocker" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/beelocker/public/modules/syslog/syslog.controller.js" />
         <option value="$PROJECT_DIR$/beelocker/public/modules/user/user.html" />
         <option value="$PROJECT_DIR$/beelocker/public/modules/group/group.html" />
         <option value="$PROJECT_DIR$/beelocker/public/modules/service/service.html" />
@@ -178,6 +169,7 @@
         <option value="$USER_HOME$/Desktop/Example.html" />
         <option value="$USER_HOME$/Desktop/test.html" />
         <option value="$USER_HOME$/Desktop/Bootstrap Example.html" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -227,8 +219,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,7 +228,7 @@
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="SearchEverywhereHistoryKey" value="bootstra&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/css/bootstrap.css&#10;test&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/testTranslation.js&#10;english&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;v1&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/css/v1.css&#10;status&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;app&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/app.js&#10;index&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;STATUS&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;case.h&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;group.contr&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/group/group.controller.js&#10;create-gr&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/group/create-group.html&#10;nglish&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;STAT&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;create&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/email/create-email-setting.html&#10;service&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/service/service.html&#10;bower&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;engl&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/language/englishTranslation.js&#10;package&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/package.json&#10;BOWER&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;SIDE&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;routes&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/routes.js&#10;bower.json&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/bower.json&#10;sys&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/syslog/syslog.html&#10;footer&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/footer/footer.html&#10;index.html&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;HEADER&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.html&#10;stat&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/config/status-message.js&#10;sidebar&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;header.co&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.controller.js&#10;header&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/header/header.html&#10;case&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;login&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/login/login.controller.js&#10;reset&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/reset-password/reset-password.html&#10;re&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/registration/registration.html&#10;registration&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/registration/registration.controller.js&#10;check&#9;null&#9;null&#10;constant&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/constants/constants.js&#10;res&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/reset-password/reset-password.html&#10;user&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/user/user.controller.js&#10;view&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/view-case.html&#10;CASE&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/case/case.html&#10;dash&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/dashboard/dashboard.controller.js&#10;dashboard&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/dashboard/dashboard.html&#10;profile&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/user-profile/user-profile.html&#10;route&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/routes.js&#10;side&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/modules/layout/sidebar/sidebar.html&#10;In&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;INDEX&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;inde&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/index.html&#10;strength&#9;FILE&#9;file://E:/Developement/beelocker/beelocker/public/directives/checkStrength.js" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -256,6 +248,18 @@
       <recent name="C:\Users\Rahul\Dheeraj" />
       <recent name="E:\Developement\beelocker\beelocker\public\modules\incident" />
     </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.dd.html">
     <configuration default="false" name="Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/beelocker/beelocker/public/modules/incident/Test.html">
@@ -324,10 +328,6 @@
       <method />
     </configuration>
     <configuration default="false" name="Unnamed" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/beelocker">
-      <profiling v8-profiler-path="" />
-      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
-        <profiling v8-profiler-path="" />
-      </EXTENSION>
       <method />
     </configuration>
     <list size="4">
@@ -520,6 +520,9 @@
       <workItem from="1495778459843" duration="25180000" />
       <workItem from="1495911862518" duration="12000" />
       <workItem from="1497442245743" duration="1204000" />
+      <workItem from="1498112571775" duration="408000" />
+      <workItem from="1498113215734" duration="731000" />
+      <workItem from="1498544062214" duration="413000" />
     </task>
     <task id="LOCAL-00001" summary="Critibility and confidence number input">
       <created>1486821805994</created>
@@ -798,31 +801,31 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="907719000" />
+    <option name="totallyTimeSpent" value="909271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20272315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.21440262" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21440262" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328594" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6497545" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934534" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -866,7 +869,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/beelocker/app/authentication/authenticator.controller.js" />
     <entry file="file://$PROJECT_DIR$/beelocker/app/event-viewer/event-view.route.js" />
     <entry file="file://$PROJECT_DIR$/beelocker/app/event-viewer/event-view.controller.js" />
     <entry file="file://$PROJECT_DIR$/beelocker/public/modules/group/group.controller.js" />
@@ -915,10 +917,11 @@
     <entry file="file://$PROJECT_DIR$/css.css" />
     <entry file="file://$USER_HOME$/Desktop/Bootstrap Example.html" />
     <entry file="file://$USER_HOME$/Desktop/Example.html" />
-    <entry file="file://$PROJECT_DIR$/js/customJs.js">
+    <entry file="file://$PROJECT_DIR$/js/customJs.js" />
+    <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
